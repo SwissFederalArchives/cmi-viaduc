@@ -1,4 +1,4 @@
-[English](readme.md) :point_left:
+[English](readme_en.md) :point_left:
 
 # cmi-viaduc
 - **[cmi-viaduc](https://github.com/SwissFederalArchives/cmi-viaduc)**  :triangular_flag_on_post:
@@ -8,10 +8,10 @@
    - [cmi-viaduc-backend](https://github.com/SwissFederalArchives/cmi-viaduc-backend)
 
 # Einleitung
-Viaduc war der Projektname für die Entwicklung des Online-Zugangs des Schweizerischen Bundesarchivs (WebOZ).
+Viaduc war der Projektname für die Entwicklung des Online-Zugangs des Schweizerischen Bundesarchivs (webOZ).
 
 Der Online-Zugang des BAR kann als digitaler Lesesaal bezeichnet werden, da er ein Grossteil der Aufgaben des Archivs über die digitale Platform abwickeln kann. 
-Die folgenden Merkmale der Merkmale sind hervorzuheben:
+Die folgenden Merkmale sind hervorzuheben:
 - Suche in öffentlichen Metadaten und Primärdaten.
 - Suche in geschützten Metadaten und Primärdaten für berechtigte Benutzer.
 - Differenziertes Berechtigungskonzept für den Zugriff auf Meta- und Primärdaten anhand des angemeldeten Benutzers.
@@ -19,8 +19,8 @@ Die folgenden Merkmale der Merkmale sind hervorzuheben:
 - Bestellung von Archivalien als Digitalisat. (Die Archivalien werden zeitnah digitalisiert und dem Benutzer
 zugänglich gemacht.)
 - Aufbereitung der Gebrauchskopie umfasst
-- OCR Erkennung von Scans
-- Formatumwandlug von Archiv- in Benutzerformate
+  - OCR Erkennung von Scans
+  - Formatumwandlug von Archiv- in Benutzerformate
 - Speicherung im Cache von öffentlichen Gebrauchskopien
 - Stellen von Einsichtsgesuchen
 - Zeitliche befristete Freigabe von Unterlagen an bewilligte Personen
@@ -48,7 +48,7 @@ Alle Repositories stehen unter derselben Lizenz:
 GNU Affero General Public License (AGPLv3), siehe [LICENSE](LICENSE.TXT)
 
 # Projektstatus
-Das initiale Entwicklungsprojekt ist abgeschlossen, zurzeit befindet sich der WebOZ in der Wartung/Weiterenticklungsphase.
+Das initiale Entwicklungsprojekt ist abgeschlossen, zurzeit befindet sich der webOZ in der Wartung/Weiterenticklungsphase.
 Es ist geplant, jährlich punktuelle Weiterentwicklungen, Korrekturen und Verbesserungen vorzunehmen und diese hier zu publizieren.
 
 # Mitwirken
