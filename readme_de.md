@@ -39,6 +39,16 @@ Die Frontend-Applikationen werden in einem `ASP.NET` Container (siehe Backend-Re
 
 ![Kontext in Big-Picture](docs/imgs/context.svg)
 
+# Bemerkungen
+Dieser Code wurde im spezifischen Kontext des Schweizerischen Bundesarchivs entwickelt. Er enthält an manchen Orten hartcodierte Links zu verschiedenen Diensten, die in diesem Zusammenhang verwendet werden, namentlich
+
+- URLs zu Seiten anderer Dienste der Bundesverwaltung ( *\.admin.ch ) 
+- URLs zum Public-Client und zum Management-Client ( https://www.recherche.bar.admin.ch.*) 
+- URLs zu Authentifizierungsdiensten (E-IAM und Swisscom) ( https://www.recherche.bar.admin.ch/private | https://dis.swisscom.ch/* )
+- URLs zu Chatbot- und Co-Browsing-Diensten ( https://chatbot.bar.smartive.cloud/* | https://unblu.cloud/unblu/* )
+
+Diese können nach Bedarf ersetzt werden, um den Code an die spezifische Umgebung anzupassen
+
 # Autoren
 - [CM Informatik AG](https://cmiag.ch)
 - [Evelix GmbH](https://evelix.ch)

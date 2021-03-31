@@ -37,6 +37,16 @@ The frontend applications are hosted in an `ASP.NET` container (see backend repo
 
 ![The Big-Picture](docs/imgs/context.svg)
 
+# Remarks
+This code has been developed in the specific context of the Swiss Federal Archives. It includes in some places hard-coded links to several services used in this context, namely
+ 
+- URLs to pages of other federal administration services ( *\.admin.ch ) 
+- URLs to the public-client and to the management-client ( https://www.recherche.bar.admin.ch.*) 
+- URLs to authentication services (E-IAM and Swisscom) ( https://www.recherche.bar.admin.ch/private | https://dis.swisscom.ch/* )
+- URLs to chatbot and co-browsing services (https://chatbot.bar.smartive.cloud/* | https://unblu.cloud/unblu/* )
+
+Replace them as needed to adapt the code to your specific environment.
+
 # Authors
 - [CM Informatik AG](https://cmiag.ch)
 - [Evelix GmbH](https://evelix.ch)
