@@ -10,7 +10,7 @@
 
 # Introduction
 
-_Viaduc_ originated as a development project for the online access of the Swiss Federal Archives (SFA). _Viaduc_ can be described as a digital reading room: it can handle most of the archive's public accessibility tasks on its digital platform.
+_Viaduc_ originated as a development project for the online access of the Swiss Federal Archives (SFA). The online access of the SFA can be described as a digital reading room: it can handle most of the archive's public accessibility tasks on its digital platform.
 
 Its hightlights comprise the following features:
 
@@ -32,7 +32,7 @@ In order for the archival community to benefit from the investment, knowledge an
 
 # Overview
 
-The complete Viaduc solution includes 4 code repositories.
+The complete solution of the online acces includes 4 code repositories.
 
 The repository [cmi-viaduc-web-core](https://github.com/SwissFederalArchives/cmi-viaduc-web-core) is an Angular library.
 This library is used by the other two applications,  Public Access  ([cmi-viaduc-web-frontend](https://github.com/SwissFederalArchives/cmi-viaduc-web-frontend)) and Internal Management ([cmi-viaduc-web-management](https://github.com/SwissFederalArchives/cmi-viaduc-web-management)), as a common code base and component library.
