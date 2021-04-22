@@ -9,7 +9,7 @@
 
 # Introduction
 
-_Viaduc_ originated as a development project for the online access of the Swiss Federal Archives (SFA). The online access of the SFA can be described as a digital reading room: it can handle most of the archive's public accessibility tasks on its digital platform (see the [platform's user manual](https://www.bar.admin.ch/dam/bar/en/dokumente/kundeninformation/Benutzerhandbuch-Webportal.pdf.download.pdf/Benutzerhandbuch-Webportal.pdf) [in German]).
+_Viaduc_ originated as a development project for the online access of the Swiss Federal Archives (SFA). The online access of the SFA can be described as a digital reading room: it can handle most of the archive's public accessibility tasks on its digital platform (see the [platform's user manual](https://www.bar.admin.ch/dam/bar/en/dokumente/kundeninformation/Benutzerhandbuch-Webportal.pdf.download.pdf/Benutzerhandbuch-Webportal.pdf)).
 
 Its hightlights comprise the following features:
 
