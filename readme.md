@@ -1,4 +1,3 @@
-[Deutsch](readme_de.md) :point_left:
 
 # cmi-viaduc
 
