@@ -63,6 +63,19 @@ GNU Affero General Public License (AGPLv3). See [LICENSE](LICENSE.TXT).
 
 The initial development project is finished; currently the online access of the SFA is in the maintenance/continuation phase. It is planned to make selective developments, corrections and improvements every year and to publish them here.
 
+# Lines of Code
+## cmi-viaduc-backend
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-viaduc-backend)](https://github.com/SwissFederalArchives/cmi-viaduc-backend)
+
+## cmi-viaduc-web-core
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-viaduc-web-core)](https://github.com/SwissFederalArchives/cmi-viaduc-web-core)
+
+## cmi-viaduc-web-management
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-viaduc-web-management)](https://github.com/SwissFederalArchives/cmi-viaduc-web-management)
+
+## cmi-viaduc-web-frontend
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-viaduc-web-frontend)](https://github.com/SwissFederalArchives/cmi-viaduc-web-frontend)
+
 # Contribute
 
 This repository is a copy which will be updated regularly - therefore contributions via pull requests are not possible. However, independent copies (forks) are possible under consideration of the AGPLV3 license.
