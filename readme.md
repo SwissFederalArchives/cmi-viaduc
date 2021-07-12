@@ -82,5 +82,5 @@ This repository is a copy which will be updated regularly - therefore contributi
 
 # Contact
 
-- For general questions (and technical support), please contact the Swiss Federal Archives by e-mail at bundesarchiv@bar.admin.ch.
+- For general questions (and technical support), please contact the Swiss Federal Archives by e-mail at info@bar.admin.ch.
 - Technical questions or problems concerning the source code can be posted here on GitHub via the "Issues" interface.
