@@ -20,6 +20,9 @@ Its hightlights comprise the following features:
 - Search in protected meta- and primary data for authorized users.
 - User authentification and differentiated levels of  access to metadata and primary data.
 - Downloading primary data as a working copy, in DIP (Dissemination Information Package) structure.
+- Viewing primary data in a IIIF-Viewer
+  - Vieving dossiers with hierarchies
+  - A search over all documents of a dossier
 - Ordering digital copies of archival records.
 - Preparation of the working copy includes
   - OCR recognition of scans
