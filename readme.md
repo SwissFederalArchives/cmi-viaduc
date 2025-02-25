@@ -6,6 +6,9 @@
   - [cmi-viaduc-web-frontend](https://github.com/SwissFederalArchives/cmi-viaduc-web-frontend)
   - [cmi-viaduc-web-management](https://github.com/SwissFederalArchives/cmi-viaduc-web-management)
   - [cmi-viaduc-backend](https://github.com/SwissFederalArchives/cmi-viaduc-backend)
+  - [cmi-iiif-frontend](https://github.com/SwissFederalArchives/cmi-iiif-frontend)
+  - [cmi-iiif-backend](https://github.com/SwissFederalArchives/cmi-iiif-backend)
+
 
 # Introduction
 
@@ -17,6 +20,9 @@ Its hightlights comprise the following features:
 - Search in protected meta- and primary data for authorized users.
 - User authentification and differentiated levels of  access to metadata and primary data.
 - Downloading primary data as a working copy, in DIP (Dissemination Information Package) structure.
+- Viewing primary data in a IIIF-Viewer
+  - Vieving dossiers with hierarchies
+  - A search over all documents of a dossier
 - Ordering digital copies of archival records.
 - Preparation of the working copy includes
   - OCR recognition of scans
@@ -31,11 +37,12 @@ In order for the archival community to benefit from the investment, knowledge an
 
 # Overview
 
-The complete solution of the online acces includes 4 code repositories.
+The complete solution of the online acces includes 6 code repositories.
 
 The repository [cmi-viaduc-web-core](https://github.com/SwissFederalArchives/cmi-viaduc-web-core) is an Angular library.
 This library is used by the other two applications,  Public Access  ([cmi-viaduc-web-frontend](https://github.com/SwissFederalArchives/cmi-viaduc-web-frontend)) and Internal Management ([cmi-viaduc-web-management](https://github.com/SwissFederalArchives/cmi-viaduc-web-management)), as a common code base and component library.
 The frontend applications are hosted in an `ASP.NET` container (see backend repository [cmi-viaduc-backend](https://github.com/SwissFederalArchives/cmi-viaduc-backend)) and communicate with the system via a web API.
+With the release 2.0.0.1113, two new repositories were added to provide the system with IIIF viewer capabilities. There is the actual _IIIF-Viewer_ ([cmi-iiif-frontend](https://github.com/SwissFederalArchives/cmi-iiif-frontend)) and the required _backend_ ([cmi-iiif-backend](https://github.com/SwissFederalArchives/cmi-iiif-backend)) that adds the required IIIF services like search.
 
 ![The Big-Picture](docs/imgs/context.svg)
 
@@ -53,6 +60,7 @@ Replace them as needed to adapt the code to your specific environment.
 
 - [CM Informatik AG](https://cmiag.ch)
 - [Evelix GmbH](https://evelix.ch)
+- [Akros AG](https://www.akros.ch)
 
 # License
 
@@ -75,6 +83,13 @@ The initial development project is finished; currently the online access of the 
 
 ## cmi-viaduc-web-frontend
 [![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-viaduc-web-frontend)](https://github.com/SwissFederalArchives/cmi-viaduc-web-frontend)
+
+## cmi-iif-frontend
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-iiif-frontend)](https://github.com/SwissFederalArchives/cmi-iiif-frontend)
+
+
+## cmi-iif-backend
+[![](https://tokei.rs/b1/github/SwissFederalArchives/cmi-iiif-backend)](https://github.com/SwissFederalArchives/cmi-iiif-backend)
 
 # Contribute
 
